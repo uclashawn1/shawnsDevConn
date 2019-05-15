@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://uclaShawn:KQZT9fWG4Ksld0Hw@devconnclust-uzxvh.mongodb.net/test?retryWrites=true"
+  "mongoURI": "mongodb+srv://uclaShawn:KQZT9fWG4Ksld0Hw@devconnclust-uzxvh.mongodb.net/test?retryWrites=true",
+  "jwtSecret": "mysecrettoken"
 }
